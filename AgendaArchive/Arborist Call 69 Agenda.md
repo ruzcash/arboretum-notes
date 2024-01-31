@@ -1,34 +1,34 @@
-# Arborist Call 69 Agenda
+# Arborist Call 69 Повестка дня
 
-**Meeting Date: January 25th 21:00 UTC**
+**Дата встречи: 25 января 21:00 UTC**
 
-Duration: 
+Продолжительность: 
 
-[Full notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md)
+[Полные записи](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md)
 
-[Recorded]
-
-
-## Agenda
+[Запись]
 
 
-+ Welcome and Meeting Intro
+## Повестка дня
+
+
++ Приветствие и вводная часть встречи
 
      
 
-+ ECC Core Update 
++ Обновление ядра ECC 
 
-     - [Mobile SDKs / Revision one Unified Addresses](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#1-ecc-update---mobile-sdks--revision-one-unified-addresses)
+     - [Mobile SDKs / Revision one Unified Addresss](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#1-ecc-update---mobile-sdks--revision-one-unified-addresses)
 
 
-+ Zebra Status 
++ Статус Zebra 
 
      - [Zebra 1.5.2](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#2-zebra-update---zebra-152)
 
 
-+ Research & Implementation Update 
++ Обновление исследований и внедрения 
  
-     - [FROST updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#3-research--implementation-updates-i-frost-updates)
+     - [Обновления FROST](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#3-research--implementation-updates-i-frost-updates)
      
      - [Trailing Finality Layer - Overview](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#3-research--implementation-updates-ii-trailing-finality-layer---overview)
 
@@ -37,13 +37,13 @@ Duration:
      - [Trailing Finality Layer - Crosslink](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#3-research--implementation-updates-iv-trailing-finality-layer---crosslink)
 
 
-+ Open Annoucements
++ Открытые анонсы
     
-    - [Nate leaving ECC](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#open-announcements---nate-leaving-ecc)
+    - [Нейт покидает ECC](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#open-announcements---nate-leaving-ecc)
 
 
-+ Open Discussion
++ Открытая дискуссия
 
      - [TFL Q&A](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#4-open-discussion-i-tfl-qa)
 
-     - [Possible BFT light clients](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#4-open-discussion-ii-possible-bft-light-clients)
+     - [Возможные клиенты BFT light](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md#4-open-discussion-ii-possible-bft-light-clients)
