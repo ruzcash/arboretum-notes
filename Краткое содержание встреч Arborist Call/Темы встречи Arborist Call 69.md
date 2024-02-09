@@ -1,10 +1,10 @@
-# Arborist Call 69 Повестка дня
+# Темы встречи Arborist Call 69
 
 **Дата встречи: 25 января 21:00 UTC**
 
 Продолжительность: 
 
-[Полные записи](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2069-Notes.md)
+[Полное содержание встречи](https://github.com/ruzcash/arboretum-notes/blob/main/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5%20%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%20Arborist%20Call/%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8%20Arborist%20Call%2069.md)
 
 [Запись]
 
