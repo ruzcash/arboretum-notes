@@ -20,7 +20,7 @@ Zcash Arborist ⓩ Call - это онлайн видео-встречи по р�
 Зарегистрироваться можно здесь: [15:00 UTC](https://zfnd-org.zoom.us/webinar/register/WN_42A2bMIiSziGGNG3MTEcqQ) / [21:00 UTC](https://zfnd-org.zoom.us/webinar/register/WN_Y4yuMoPuS-u87aBhfpMHhg)
 
 ### Кто администрирует встречи Arborist Calls
-Zcash Foundation организует и записывает встречи. Переводы в данном репозитории выполнены участником сообщества [ruzcash](https://twitter.com/ruZCASH). Краткие обзоры находятся в блоге pro.ZCASH по хэштегу [Arborist Call](https://pro.zcash.ru/tag/arborist-call)
+Zcash Foundation организует и записывает встречи. Переводы в данном репозитории выполнены участником сообщества [ruzcash](https://twitter.com/ruZCASH). Краткие обзоры находятся в блоге [pro.ZCASH](https://pro.zcash.ru/) по хэштегу [Arborist Call](https://pro.zcash.ru/tag/arborist-call)
 
 ### Список встреч:
 
